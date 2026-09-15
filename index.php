@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Car Deal - Simulasi Kredit</title>
+<title>Car Deal - Simulasi Kredit Mobil</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
@@ -40,8 +40,8 @@
         <a href="#simulasi" class="mr-7 text-black hover:text-gold active:text-gold transition-colors">Simulasi</a>
         <a href="#kontak" class="text-black hover:text-gold active:text-gold transition-colors">Kontak</a>
       </nav>
-      <a href="#simulasi" class="inline-flex items-center bg-goldlight text-charcoal py-1.5 px-4 hover:bg-gold hover:text-white rounded-full text-sm font-medium mt-4 md:mt-0 transition-colors">
-        Simulasi
+      <a href="#kontak" class="inline-flex items-center bg-goldlight text-charcoal py-1.5 px-4 hover:bg-gold hover:text-white rounded-full text-sm font-medium mt-4 md:mt-0 transition-colors">
+        Hubungi Kami
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
           <path d="M5 12h14M12 5l7 7-7 7"></path>
         </svg>
